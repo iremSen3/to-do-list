@@ -24,7 +24,5 @@ You can **add tasks, mark them as done, edit them, and delete them**. Your tasks
 
 ## How to Run the Project
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/iremSen3/to-do-list.git
-2. Open to-do-list.html in your browser and start using your To-Do List!
+Clone or download the repository: https://github.com/iremSen3/to-do-list.git  
+Open `to-do-list.html` in your browser and start using your To-Do List!
