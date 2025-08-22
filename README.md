@@ -10,9 +10,9 @@ You can **add tasks, mark them as done, edit them, and delete them**. Your tasks
 3. Edit task name and date
 4. Delete tasks
 5. Filter tasks:
-   5.1. All tasks
-   5.2. Completed tasks
-   5.3. Active tasks (not done)
+   - All tasks
+   -Completed tasks
+   -Active tasks (not done)
 6. Tasks are saved in **localStorage** so data persists
 
 ## Technologies Used
@@ -27,5 +27,3 @@ You can **add tasks, mark them as done, edit them, and delete them**. Your tasks
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/iremSen3/to-do-list.git
-
-2. Open `to-do-list.html` in your browser
